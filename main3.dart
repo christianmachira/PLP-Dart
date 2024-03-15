@@ -17,7 +17,7 @@ import 'dart:io';
 //   String? userInput = stdin.readLineSync();
 //   int num = int.parse(userInput);
 //   // try {
-//   //   num = int.parse(userInput);
+//   //   num = int.parse(userInput!);
 //   // } catch (e) {
 //   //   print("Invalid input please enter a valid number");
 //   //   return;
